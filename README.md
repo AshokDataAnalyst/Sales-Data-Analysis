@@ -21,7 +21,7 @@ This repository contains **Sales Data Cleaning and Analysis** using **SQL and Po
 ## 🔥 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Sales-Data-Analysis.git
+   git clone https://github.com/ashokdataanalayst/Sales-Data-Analysis.git
    ```
 2. Open `sales_data.sql` in SQL Server or MySQL and run queries.
 3. Open `sales_dashboard.pbix` in Power BI and refresh data.
